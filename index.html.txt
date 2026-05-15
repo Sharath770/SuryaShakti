@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Surya-Shakti Solar Monitor</title>
+</head>
+<body>
+    <h1>Surya-Shakti Solar Monitor</h1>
+    <h2>Android Solar Monitoring Application</h2>
+
+    <p>
+        Surya-Shakti Solar Monitor is an Android application developed using Kotlin and Jetpack Compose.
+        It helps users monitor solar energy generation, battery usage, and weather conditions.
+    </p>
+
+    <h3>Technologies Used</h3>
+    <ul>
+        <li>Kotlin</li>
+        <li>Jetpack Compose</li>
+        <li>Firebase</li>
+        <li>Room Database</li>
+        <li>MVVM Architecture</li>
+    </ul>
+</body>
+</html>
